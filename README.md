@@ -11,9 +11,9 @@ Introducting Myself 👋
 Welcome to my portfolio, where I showcase my projects. https://github.com/SeanGarciaX?tab=repositories
 
 🛠️ Tools 
-• Language: Python, SQL
-• Database: Google BigQuery, PostgreSQL, MySQL, Oracle
-• Visualization: Tableau, Looker Studio
+• Language: Python, SQL<br />
+• Database: Google BigQuery, PostgreSQL, MySQL, Oracle<br />
+• Visualization: Tableau, Looker Studio<br />
 
 Connect with Me
 • Add me on <a href="https://">LinkedIN</a>
