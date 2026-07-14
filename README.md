@@ -1,21 +1,21 @@
 Introducting Myself 👋
 
-<img width="2206" height="1100" alt="image" src="https://github.com/user-attachments/assets/36abc21e-f9a3-421e-ad9f-9d4fd3399523" />
+<img width="2206" height="1100" alt="image" src="https://github.com/user-attachments/assets/36abc21e-f9a3-421e-ad9f-9d4fd3399523" /><br />
 
 • Querying databases using SQL<br />
 • Creating data visualizations with plotly, matplotlib and seaborn<br />
 • Developing dashboards using Tableau, Power BI, and Looker<br />
 • Data Analysis and reporting using Google Sheets, and Excel<br /> 
 
-📚 Projects 
-Welcome to my portfolio, where I showcase my projects. https://github.com/SeanGarciaX?tab=repositories
+📚 Projects<br />
+Welcome to my portfolio, where I showcase my projects. https://github.com/SeanGarciaX?tab=repositories<br />
 
 🛠️ Tools<br /> 
 • Language: Python, SQL<br />
 • Database: Google BigQuery, PostgreSQL, MySQL, Oracle<br />
 • Visualization: Tableau, Looker Studio<br />
 
-Connect with Me
+Connect with Me<br />
 • Add me on <a href="https://">LinkedIN</a>
 
 <!--
