@@ -1,7 +1,7 @@
 Introducting Myself 👋
 
 <img width="2206" height="1100" alt="image" src="https://github.com/user-attachments/assets/36abc21e-f9a3-421e-ad9f-9d4fd3399523" /><br />
-
+Hello, I'm Sean. Data Analyst with expertise in Data Analytics and Artificial Intelligence.<br />
 • Querying databases using SQL<br />
 • Creating data visualizations with plotly, matplotlib and seaborn<br />
 • Developing dashboards using Tableau, Power BI, and Looker<br />
