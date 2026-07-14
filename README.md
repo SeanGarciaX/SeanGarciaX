@@ -1,5 +1,7 @@
 Introducting Myself 👋
 
+<img width="2206" height="1100" alt="image" src="https://github.com/user-attachments/assets/36abc21e-f9a3-421e-ad9f-9d4fd3399523" />
+
 
 <!--
 **SeanGarciaX/SeanGarciaX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
