@@ -16,7 +16,7 @@ Welcome to my portfolio, where I showcase my projects. https://github.com/SeanGa
 • Visualization: Tableau, Looker Studio<br />
 
 Connect with Me<br />
-• Add me on <a href="https://">LinkedIN</a>
+• Add me on <a href="https://www.linkedin.com/in/sean-garcia-ai">www.linkedin.com/in/sean-garcia-ai</a>
 
 <!--
 **SeanGarciaX/SeanGarciaX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
